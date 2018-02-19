@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 IDK", "01 IDK.csproj", "{7B14D940-3E1D-5358-392C-D968B3CDE8DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B14D940-3E1D-5358-392C-D968B3CDE8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B14D940-3E1D-5358-392C-D968B3CDE8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B14D940-3E1D-5358-392C-D968B3CDE8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B14D940-3E1D-5358-392C-D968B3CDE8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
